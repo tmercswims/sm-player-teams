@@ -9,3 +9,5 @@ This is a very simple SourceMod plugin which adds a single command: `sm_player_t
 Where `<team>` is `2` for Terrorists and `3` for Counter-Terrorists.
 
 This was created for use in one of my cogs for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot), [retakechannels](https://github.com/tmercswims/tmerc-cogs/tree/master/retakechannels).
+
+To install, simply put `getteams.smx` in `csgo/addons/sourcemod/plugins/`.
